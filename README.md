@@ -1,7 +1,5 @@
 # googleearthengine-thesis-codes
-This repository contains only the codes wrotten in JavaScript to process Sentinel-1 and Landsat 8 images to generate optical and radar vegetation indices.
-
-My dissertation was written in the Department of Agricultural Engineering, at the Universidade Federal de Viçosa, Brazil. From that, two scientific papers were derived, which are:
+This repository contains only the codes written in JavaScript to process Sentinel-1 and Landsat 8 images, in Google Earth Engine JavaScript API, to generate optical and radar vegetation indices. My dissertation was written in the Department of Agricultural Engineering, at the Universidade Federal de Viçosa, Brazil. From that, two scientific papers were derived, which are:
 
 It is the first paper:
 
@@ -18,3 +16,13 @@ A Machine Learning approach to reconstruct cloudy affected vegetation indices im
 Follows also a graphical abstract of the second paper:
 
 ![Graphical_Abstract](https://user-images.githubusercontent.com/52005057/160290543-9fcf0dd1-6aa5-40d9-88c9-fd5124a455f5.png)
+
+If any of the codes published here seems useful for your, please consider citing the corresponding paper!
+
+Erli Pinto dos Santos
+Agronomy Engineer
+PhD candidate in Agricultural Engineering
+Department of Agricultural Engineering
+Universidade Federal de Viçosa (Viçosa, Minas Gerais, Brazil)
+
+Feel free to contact me anytime at: erlispinto@outlook.com or erli.santos@ufv.br
