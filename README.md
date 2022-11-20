@@ -1,4 +1,7 @@
 # googleearthengine-thesis-codes
+
+[![DOI](https://zenodo.org/badge/474685721.svg)](https://zenodo.org/badge/latestdoi/474685721)
+
 This repository contains only the codes written in JavaScript to process Sentinel-1 and Landsat 8 images, in Google Earth Engine JavaScript API, to generate optical and radar vegetation indices. My dissertation was written in the Department of Agricultural Engineering, at the Universidade Federal de Viçosa, Brazil. From that, two scientific papers were derived, which are:
 
 It is the first paper:
