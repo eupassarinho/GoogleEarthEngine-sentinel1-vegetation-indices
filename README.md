@@ -27,5 +27,3 @@ Agronomy Engineer
 PhD candidate in Agricultural Engineering
 Department of Agricultural Engineering
 Universidade Federal de Viçosa (Viçosa, Minas Gerais, Brazil)
-
-Feel free to contact me anytime at: erlispinto@outlook.com or erli.santos@ufv.br
